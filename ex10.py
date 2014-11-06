@@ -45,12 +45,3 @@ eg : \xA8
 print "\xA8"
 print "\376"
 print "\uxxxx"
-
-
-while True:
-    for i in ["/", "-", "|", "\\", "|"]:
-        print "%s\r" % i,
-
-
-#study drill 3
-print "testing\t %r %s" % (fat_cat, tabby_cat)
