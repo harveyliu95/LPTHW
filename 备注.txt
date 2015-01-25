@@ -8,3 +8,7 @@ Ex10µÄ"escape sequences"ÁÐ±í²¿·Öº¬ÒåÒÔ¼°Ê¹ÓÃ·½·¨£¿¾ÍÊÇ£ºÆäÖÐUnicodeµÄ»¹ÓÐ°Ë½øÖÆÊ
 Ex16µÄ'w+','r+','a+'¼ÓÈëºó»á³öÏÖÂÒÂë£¿
 
 Ex17µÄ¼¸¸öµÚ1.2.4.5¸östudy drill¡£
+
+Ex22£¬¶÷¡­¡­
+
+Ex23£¬¶÷¡­¡­Á½½Ú¸´Ï°¿Î
